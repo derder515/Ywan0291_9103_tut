@@ -14,7 +14,8 @@ The technique I found uses Perlin noise to generate.
 Perlin noise can be used for any type of wave-like materials or textures. With Perlin noise, this code can generate several lines that change their flow based on music or mouse clicks. I think this code can well represent the light and shadow techniques of Impressionism and the flowing trails of the starry sky.
 
 ![An image of Perlin Noise Flow](readmeImage/Perlin_Noise_Flow.jpg)
-[Link Text](https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL)
+
+[Code Link](https://editor.p5js.org/BarneyCodes/sketches/2eES4fBEL)
 
 > This is the code I found.
 ```
